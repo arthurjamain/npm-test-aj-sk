@@ -1,0 +1,19 @@
+{
+  "name": "npm-test-aj-sk",
+  "version": "1.4.0",
+  "description": "The sketchfab viewer API",
+  "main": "sketchfab-viewer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthurjamain/npm-test-aj-sk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arthurjamain/npm-test-aj-sk/issues"
+  },
+  "homepage": "https://github.com/arthurjamain/npm-test-aj-sk#readme"
+}
